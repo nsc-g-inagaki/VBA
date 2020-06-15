@@ -16,9 +16,9 @@
 コード中に省略して書かれている[単語は略語リスト](abbreviations.md)を見てください.
 
 コンテンツ
-- Main.Bas
+- [Main.Bas](Main.bas)
     - ボタンの処理\
     - 全体的に使用される値の定義\
     - 共通されている処理の定義\
-- Validation.Bas
+- [Validation.bas](Validation.bas)
     - 入力されている値のフォーマットや整合性をチェックする処理
